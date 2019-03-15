@@ -1,0 +1,5 @@
+temp
+*.swp
+*.logs
+*.log
+.DS_Store
